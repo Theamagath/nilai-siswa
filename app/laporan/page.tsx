@@ -99,9 +99,8 @@ export default function LaporanPage() {
               </table>
             </div>
           )}
-
           <div className="mt-6">
-            <Link href="/dashboard" className="text-blue-600">
+            <Link href="/dashboard" className="inline-block rounded-lg bg-slate-800 px-4 py-2 text-white hover:bg-slate-700">
               ← Kembali ke Dashboard
             </Link>
           </div>
