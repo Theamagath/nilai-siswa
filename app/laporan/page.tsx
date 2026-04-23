@@ -36,7 +36,7 @@ export default function LaporanPage() {
   }, []);
 
   return (
-    <div className="min-h-screen  bg-[#0b1120] p-6">
+    <div className="min-h-screen  bg-[#0b1120] p-6 text-black">
       <div className="mx-auto max-w-6xl space-y-6">
         <div className="rounded-xl bg-white p-6 shadow">
           <h1 className="mb-2 text-3xl font-bold">Laporan Nilai</h1>

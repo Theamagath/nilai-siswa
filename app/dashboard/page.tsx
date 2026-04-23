@@ -54,7 +54,7 @@ export default function DashboardPage() {
   ];
 
   return (
-    <div className="min-h-screen bg-[#0b1120]">
+    <div className="min-h-screen bg-[#0b1120] text-black">
       <div className="mx-auto max-w-7xl p-6">
         <div className="mb-8 rounded-2xl bg-white p-6 shadow">
           <h1 className="text-3xl font-bold text-slate-800">
